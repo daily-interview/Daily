@@ -10,6 +10,10 @@ http://reactjs.cn/react/docs/getting-started.html
 
 http://facebook.github.io/react-native/docs/getting-started.html
 
+### ES6入门
+
+http://es6.ruanyifeng.com/
+
 ### mac下启动mongodb
 
 cd /usr/local/mongodb/bin
