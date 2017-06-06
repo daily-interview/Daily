@@ -14,6 +14,10 @@ http://facebook.github.io/react-native/docs/getting-started.html
 
 http://es6.ruanyifeng.com/
 
+### TypeScript快速上手
+
+https://www.tslang.cn/docs/tutorial.html
+
 ### mac下启动mongodb
 
 cd /usr/local/mongodb/bin
