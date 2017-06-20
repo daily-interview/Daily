@@ -2,11 +2,11 @@ just for work
 
 ### web前端趋势
 
-前端top100： https://www.awesomes.cn/rank/?sort=trend
+[前端top100](https://www.awesomes.cn/rank/?sort=trend)
 
-web前端导航： http://oolli.com/
+[web前端导航](http://oolli.com/)
 
-前端工具库： http://www.qdfuns.com/tools.php
+[前端工具库](http://www.qdfuns.com/tools.php)
 
 ### nodejs官网
 
@@ -14,9 +14,9 @@ https://nodejs.org/en/
 
 ### react && react native
 
-http://reactjs.cn/react/docs/getting-started.html
+[react](http://reactjs.cn/react/docs/getting-started.html)
 
-http://facebook.github.io/react-native/docs/getting-started.html
+[react-native](http://facebook.github.io/react-native/docs/getting-started.html)
 
 ### ES6入门
 
