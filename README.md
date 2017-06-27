@@ -24,7 +24,9 @@ http://es6.ruanyifeng.com/
 
 ### TypeScript快速上手
 
-https://www.tslang.cn/docs/tutorial.html
+[TypeScript中文网](https://www.tslang.cn/docs/handbook/typescript-in-5-minutes.html)
+
+[TypeScript w3cshool](https://www.w3cschool.cn/typescript/typescript-tutorial.html)
 
 ### 物联网 mqtt协议
 
